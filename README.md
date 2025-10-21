@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🤝What I Value:<br>- Solving real-world problems through data-driven insights<br>- Learning from mistakes and growing through feedback  <br>- Engaging in meaningful conversations to exchange ideas and perspectives<br><br>🔍 What I'm exploring:<br>- Artificial Intelligence and Machine Learning Modelling techniques<br>- Tech Sales / Pre-Sales roles<br>- Data Analysts / Scientist roles</p>
+<p align="left">🤝What I Value:<br>- Solving real-world problems through data-driven insights<br>- Learning from mistakes and growing through feedback  <br>- Engaging in meaningful conversations to exchange ideas and perspectives<br><br>🔍 What I'm exploring:<br>- Artificial Intelligence and Machine Learning Modelling techniques<br>- Tech Sales / Pre-Sales roles<br>- Business Analysts or Data Analysts / Scientists roles</p>
 
 ###
 
